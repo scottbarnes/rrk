@@ -3,7 +3,7 @@ clint==0.3.7
 Flask==0.10.1
 git+https://github.com/dgrtwo/ParsePy.git
 gdata==2.0.18
-gunicorn==18.0
+gunicorn==19.5.0
 httplib2
 itsdangerous==0.23
 Jinja2==2.7.1
